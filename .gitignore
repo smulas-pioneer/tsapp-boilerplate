@@ -1,0 +1,5 @@
+node_modules
+bower_components
+src/**/*.map
+src/**/*.js
+build

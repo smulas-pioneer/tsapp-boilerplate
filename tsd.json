@@ -1,0 +1,66 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "express/express.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "6a6ad7068a177c0d7a8a20830626cb63277191c5"
+    },
+    "node/node.d.ts": {
+      "commit": "6a6ad7068a177c0d7a8a20830626cb63277191c5"
+    },
+    "mime/mime.d.ts": {
+      "commit": "6a6ad7068a177c0d7a8a20830626cb63277191c5"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "6a6ad7068a177c0d7a8a20830626cb63277191c5"
+    },
+    "moment/moment.d.ts": {
+      "commit": "6a6ad7068a177c0d7a8a20830626cb63277191c5"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "6a6ad7068a177c0d7a8a20830626cb63277191c5"
+    },
+    "react/react.d.ts": {
+      "commit": "bcd5761826eb567876c197ccc6a87c4d05731054"
+    },
+    "react/react-dom.d.ts": {
+      "commit": "6a6ad7068a177c0d7a8a20830626cb63277191c5"
+    },
+    "react-intl/react-intl.d.ts": {
+      "commit": "3d2f9971a107e2eee2de3ec5318f5c54071e16ed"
+    },
+    "flux/flux.d.ts": {
+      "commit": "3d2f9971a107e2eee2de3ec5318f5c54071e16ed"
+    },
+    "object-assign/object-assign.d.ts": {
+      "commit": "3d2f9971a107e2eee2de3ec5318f5c54071e16ed"
+    },
+    "request-promise/request-promise.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "request/request.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "react-bootstrap/react-bootstrap.d.ts": {
+      "commit": "221df9ad820d0b2aa010d328c4bab06c8d69ac1f"
+    },
+    "js-cookie/js-cookie.d.ts": {
+      "commit": "1a5b2a729d35b1d41e2d15818db013a3644c6ba4"
+    },
+    "bootstrap/bootstrap.d.ts": {
+      "commit": "0cd5f0a1482dc3149f5446b1d885ef6ac7c57720"
+    }
+  }
+}
