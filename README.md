@@ -6,6 +6,5 @@ Boilerplate for Typescript Application: React, Flux, Bootstrap, Express
 * npm install
 * tsd install
 * set HTTP_PROXY={http proxy}
-* webpack
 * gulp
 
